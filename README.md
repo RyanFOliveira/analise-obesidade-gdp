@@ -79,7 +79,7 @@ Para executar este projeto em sua máquina, siga os passos abaixo:
 
 1️⃣ Clone o repositório
 
-```bash
+
 git clone https://github.com/RyanFOliveira/analise-obesidade-gdp.git
 
 2️⃣ Acesse a pasta do projeto
@@ -96,7 +96,9 @@ jupyter notebook
 
 Em seguida, abra o notebook do projeto para visualizar a análise completa.
 
-👨‍💻 Autor
+---
+
+# 👨‍💻 Autor
 
 Ryan Freitas de Oliveira
 
@@ -104,11 +106,15 @@ Cientista de Dados formado em Gestão de Tecnologia da Informação e pós-gradu
 
 Atua no desenvolvimento de projetos de análise de dados, exploração de datasets, visualização de informações e modelagem analítica utilizando Python, com foco em gerar insights estratégicos e apoiar decisões orientadas por dados.
 
-📎 Licença
+---
+
+# 📎 Licença
 
 Este projeto foi desenvolvido para fins de portfólio profissional.
 
-🌐 Conecte-se comigo
+---
+
+# 🌐 Conecte-se comigo
 
 💼 LinkedIn
 
