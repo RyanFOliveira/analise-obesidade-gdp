@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 📊 Análise de Dados: Obesidade Global e PIB per Capita
 
 Este projeto apresenta uma análise exploratória de dados com o objetivo de investigar a evolução da obesidade mundial e sua possível relação com indicadores econômicos, como o PIB per capita.
@@ -26,6 +27,8 @@ As principais ferramentas e bibliotecas utilizadas foram:
 - Jupyter Notebook
 
 Essas tecnologias são amplamente utilizadas em projetos de ciência de dados para análise exploratória e visualização de informações.
+=======
+>>>>>>> 5ad75468bf30f8031bff086f812dce4afc17dc97
 
 ---
 
@@ -58,19 +61,6 @@ Entre as análises realizadas no projeto estão:
 - Ranking de países com **maior PIB per capita**
 - Cálculo de **crescimento econômico ao longo do tempo**
 - Análise da **evolução da obesidade mundial**
-- Comparação entre diferentes países e períodos históricos
-
----
-
-# ❓ Perguntas Respondidas na Análise
-
-Durante o desenvolvimento do projeto, algumas perguntas analíticas foram investigadas:
-
-- Você conseguiria informar o primeiro valor registrado de PIB per capita de cada país?
-- Quais países apresentam os maiores valores de PIB per capita?
-- Como o PIB per capita evoluiu ao longo do tempo?
-- Existe alguma tendência global de crescimento da obesidade?
-- Quais países apresentam maiores índices de obesidade?
 
 ---
 
@@ -87,6 +77,7 @@ A análise dos dados revela alguns padrões interessantes:
 
 # 🚀 Como Executar o Projeto
 
+<<<<<<< HEAD
 Para executar este projeto em sua máquina, siga os passos abaixo:
 
 1️⃣ Clone o repositório
