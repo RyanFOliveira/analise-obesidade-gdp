@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # 📊 Análise de Dados: Obesidade Global e PIB per Capita
 
 Este projeto apresenta uma análise exploratória de dados com o objetivo de investigar a evolução da obesidade mundial e sua possível relação com indicadores econômicos, como o PIB per capita.
@@ -27,8 +27,6 @@ As principais ferramentas e bibliotecas utilizadas foram:
 - Jupyter Notebook
 
 Essas tecnologias são amplamente utilizadas em projetos de ciência de dados para análise exploratória e visualização de informações.
-=======
->>>>>>> 5ad75468bf30f8031bff086f812dce4afc17dc97
 
 ---
 
@@ -77,7 +75,6 @@ A análise dos dados revela alguns padrões interessantes:
 
 # 🚀 Como Executar o Projeto
 
-<<<<<<< HEAD
 Para executar este projeto em sua máquina, siga os passos abaixo:
 
 1️⃣ Clone o repositório
@@ -99,7 +96,7 @@ jupyter notebook
 
 Em seguida, abra o notebook do projeto para visualizar a análise completa.
 
-## 👨‍💻 Autor
+👨‍💻 Autor
 
 Ryan Freitas de Oliveira
 
@@ -107,11 +104,11 @@ Cientista de Dados formado em Gestão de Tecnologia da Informação e pós-gradu
 
 Atua no desenvolvimento de projetos de análise de dados, exploração de datasets, visualização de informações e modelagem analítica utilizando Python, com foco em gerar insights estratégicos e apoiar decisões orientadas por dados.
 
-##📎 Licença
+📎 Licença
 
 Este projeto foi desenvolvido para fins de portfólio profissional.
 
-## 🌐 Conecte-se comigo
+🌐 Conecte-se comigo
 
 💼 LinkedIn
 
